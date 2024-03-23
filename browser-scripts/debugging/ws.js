@@ -14,4 +14,4 @@
         });
         window.jd.ws.addEventListener('message', async(e) => { console.log(e.data); });
     },6000);
-})(); // setup the JDNService watcher
+})(); // setup the JDNService watcher proxy
